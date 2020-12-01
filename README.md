@@ -1,7 +1,7 @@
 # Pendaftaran Sekolah Dasar
 
 Yogi Prayogi 18090010
-Risnanda Hasna Mufida
+Risnanda Hasna Mufida 18090092
 
 student_table adalah table yang berfungsi untuk login pada pendaftaran
 
